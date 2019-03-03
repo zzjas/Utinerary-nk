@@ -1,0 +1,21 @@
+.uber .vertical-timeline-element-content::before {
+    display: none;
+}
+
+.uber .vertical-timeline-element-icon {
+    display: none;
+}
+
+.vertical-timeline-element-content::after {
+    display: none;
+}
+
+
+.vertical-timeline-element-content::after {
+    display: none;
+}
+
+.vertical-timeline-element-content {
+    padding: 0;
+    box-shadow: none;
+}
